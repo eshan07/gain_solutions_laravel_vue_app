@@ -1,9 +1,11 @@
 import { createStore } from 'vuex'
-// import user from './user'
+import product from './product'
+import cart from './cart'
 // Create a new store instance.
 const store = createStore({
     modules:{
-        // user,
+        product,
+        cart
     },
 })
 

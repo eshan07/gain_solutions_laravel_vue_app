@@ -5,7 +5,7 @@
     <div id="wrapper">
 
         <!-- Sidebar -->
-        <SideBar/>
+<!--        <SideBar/>-->
         <!-- End of Sidebar -->
 
         <!-- Content Wrapper -->
@@ -30,7 +30,7 @@
             <!-- End of Main Content -->
 
             <!-- Footer -->
-            <Footer/>
+<!--            <Footer/>-->
             <!-- End of Footer -->
 
         </div>
